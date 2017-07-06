@@ -1,0 +1,3 @@
+Wersja1 Wiersz1
+Wersja4 Wiersz2
+Wersja4 Wiersz3

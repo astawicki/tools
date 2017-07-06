@@ -1,0 +1,7 @@
+Wersja1 Wiersz1
+<<<<<<< HEAD
+
+=======
+Wersja4 Wiersz2
+Wersja4 Wiersz3
+>>>>>>> test2
